@@ -13,8 +13,6 @@ services:
       - xpack.security.enabled=false
       - ingest.geoip.downloader.enabled=false
       - cluster.routing.allocation.disk.threshold_enabled=false
-    networks:
-      - elasticsearch_network
     volumes:
       - elasticsearch_data:/usr/share/elasticsearch/data
     healthcheck:
