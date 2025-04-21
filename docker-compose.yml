@@ -1,4 +1,3 @@
-version: "3.8"
 services:
   # Elasticsearch with Docker documantation
   # https://www.elastic.co/guide/en/elasticsearch/reference/8.18/docker.html
