@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Cruel Summer",
+    "album": "Lover",
+    "genre": "Pop",
+    "release_date": "2019-08-23",
+    "artists": [{ "id": "06HL4z0CvFAxyc27GXpf02", "name": "Taylor Swift" }]
+  },
+  {
+    "id": 2,
+    "title": "Blinding Lights",
+    "album": "After Hours",
+    "genre": "Synth-pop",
+    "release_date": "2020-03-20",
+    "artists": [{ "id": "1Xyo4u8uXC1ZmMpatF05PJ", "name": "The Weeknd" }]
+  },
+  {
+    "id": 3,
+    "title": "Bad Guy",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "genre": "Electropop",
+    "release_date": "2019-03-29",
+    "artists": [{ "id": "6qqNVTkY8uBg9cP3Jd7DAH", "name": "Billie Eilish" }]
+  },
+  {
+    "id": 4,
+    "title": "Shape of You",
+    "album": "÷ (Divide)",
+    "genre": "Pop",
+    "release_date": "2017-03-03",
+    "artists": [{ "id": "6eUKZXaKkcviH0Ku9w2n3V", "name": "Ed Sheeran" }]
+  },
+  {
+    "id": 5,
+    "title": "Uptown Funk",
+    "album": "Uptown Special",
+    "genre": "Funk",
+    "release_date": "2015-01-13",
+    "artists": [
+      { "id": "3hv9jJF3adDNsBSIQDlxmj", "name": "Mark Ronson" },
+      { "id": "0du5cEVh5yTK9QJze8zA0C", "name": "Bruno Mars" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Don't Start Now",
+    "album": "Future Nostalgia",
+    "genre": "Dance-pop",
+    "release_date": "2020-03-27",
+    "artists": [{ "id": "6M2wZ9GZgrQXHCFfjv46we", "name": "Dua Lipa" }]
+  },
+  {
+    "id": 7,
+    "title": "Bohemian Rhapsody",
+    "album": "A Night at the Opera",
+    "genre": "Rock",
+    "release_date": "1975-10-31",
+    "artists": [{ "id": "1dfeR4HaWDbWqFHLkxsg1d", "name": "Queen" }]
+  },
+  {
+    "id": 8,
+    "title": "Sicko Mode",
+    "album": "Astroworld",
+    "genre": "Hip-hop",
+    "release_date": "2018-08-03",
+    "artists": [
+      { "id": "0Y5tJX1MQlPlqiwlOH1tJY", "name": "Travis Scott" },
+      { "id": "3TVXtAsR1Inumwj472S9r4", "name": "Drake" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Watermelon Sugar",
+    "album": "Fine Line",
+    "genre": "Pop rock",
+    "release_date": "2019-12-13",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
+  },
+  {
+    "id": 10,
+    "title": "Levitating",
+    "album": "Future Nostalgia",
+    "genre": "Dance-pop",
+    "release_date": "2020-03-27",
+    "artists": [{ "id": "6M2wZ9GZgrQXHCFfjv46we", "name": "Dua Lipa" }]
+  }
+]
