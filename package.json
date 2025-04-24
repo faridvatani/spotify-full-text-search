@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "load-data": "tsx src/scripts/load-data.ts"
+    "load-data": "tsx src/script/load-data.ts"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^9.0.0",
@@ -24,6 +24,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.0",
     "tailwindcss": "^4",
+    "tsx": "^4.19.3",
     "typescript": "^5"
   }
 }
