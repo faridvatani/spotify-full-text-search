@@ -84,5 +84,823 @@
     "genre": "Dance-pop",
     "release_date": "2020-03-27",
     "artists": [{ "id": "6M2wZ9GZgrQXHCFfjv46we", "name": "Dua Lipa" }]
+  },
+  {
+    "id": 11,
+    "title": "Rolling in the Deep",
+    "album": "21",
+    "genre": "Soul",
+    "release_date": "2010-11-29",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 12,
+    "title": "Someone Like You",
+    "album": "21",
+    "genre": "Soul",
+    "release_date": "2011-01-24",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 13,
+    "title": "Hello",
+    "album": "25",
+    "genre": "Soul",
+    "release_date": "2015-10-23",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 14,
+    "title": "Thinking Out Loud",
+    "album": "x (Multiply)",
+    "genre": "Pop",
+    "release_date": "2014-06-20",
+    "artists": [{ "id": "6eUKZXaKkcviH0Ku9w2n3V", "name": "Ed Sheeran" }]
+  },
+  {
+    "id": 15,
+    "title": "Perfect",
+    "album": "÷ (Divide)",
+    "genre": "Pop",
+    "release_date": "2017-03-03",
+    "artists": [{ "id": "6eUKZXaKkcviH0Ku9w2n3V", "name": "Ed Sheeran" }]
+  },
+  {
+    "id": 16,
+    "title": "Shallow",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [
+      { "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" },
+      { "id": "2wY79sveU1sp5g7SokKOiI", "name": "Bradley Cooper" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Poker Face",
+    "album": "The Fame",
+    "genre": "Pop",
+    "release_date": "2008-09-26",
+    "artists": [{ "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" }]
+  },
+  {
+    "id": 18,
+    "title": "Bad Romance",
+    "album": "The Fame Monster",
+    "genre": "Pop",
+    "release_date": "2009-10-26",
+    "artists": [{ "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" }]
+  },
+  {
+    "id": 19,
+    "title": "Happier Than Ever",
+    "album": "Happier Than Ever",
+    "genre": "Pop",
+    "release_date": "2021-07-30",
+    "artists": [{ "id": "6qqNVTkY8uBg9cP3Jd7DAH", "name": "Billie Eilish" }]
+  },
+  {
+    "id": 20,
+    "title": "Ocean Eyes",
+    "album": "Don't Smile at Me",
+    "genre": "Pop",
+    "release_date": "2016-11-18",
+    "artists": [{ "id": "6qqNVTkY8uBg9cP3Jd7DAH", "name": "Billie Eilish" }]
+  },
+  {
+    "id": 21,
+    "title": "Stay",
+    "album": "Stay",
+    "genre": "Pop",
+    "release_date": "2021-07-09",
+    "artists": [
+      { "id": "1r4hJ1h58CWwUQe3MxPuau", "name": "The Kid LAROI" },
+      { "id": "1uNFoZAHBGtllmzznpCI3s", "name": "Justin Bieber" }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Peaches",
+    "album": "Justice",
+    "genre": "R&B",
+    "release_date": "2021-03-19",
+    "artists": [
+      { "id": "1uNFoZAHBGtllmzznpCI3s", "name": "Justin Bieber" },
+      { "id": "4IVAbR2w4JJNJDDRFP3E83", "name": "Giveon" },
+      { "id": "6U3ybJ9UHNKEdsH7ktGBZ7", "name": "Daniel Caesar" }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Sorry",
+    "album": "Purpose",
+    "genre": "Pop",
+    "release_date": "2015-10-23",
+    "artists": [{ "id": "1uNFoZAHBGtllmzznpCI3s", "name": "Justin Bieber" }]
+  },
+  {
+    "id": 24,
+    "title": "Love Yourself",
+    "album": "Purpose",
+    "genre": "Pop",
+    "release_date": "2015-11-13",
+    "artists": [{ "id": "1uNFoZAHBGtllmzznpCI3s", "name": "Justin Bieber" }]
+  },
+  {
+    "id": 25,
+    "title": "Despacito",
+    "album": "Vida",
+    "genre": "Reggaeton",
+    "release_date": "2017-01-13",
+    "artists": [
+      { "id": "4V8Sr092TqfHkfAA5fXXqG", "name": "Luis Fonsi" },
+      { "id": "4q3ewBCX7sLwd24euuV69X", "name": "Daddy Yankee" }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Havana",
+    "album": "Camila",
+    "genre": "Pop",
+    "release_date": "2017-08-03",
+    "artists": [
+      { "id": "4nDoRrQiYLoBzwC5BhVJzF", "name": "Camila Cabello" },
+      { "id": "1vyhD5VmyZ7KMfW5gqLgo5", "name": "Young Thug" }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Señorita",
+    "album": "Romance",
+    "genre": "Pop",
+    "release_date": "2019-06-21",
+    "artists": [
+      { "id": "4nDoRrQiYLoBzwC5BhVJzF", "name": "Camila Cabello" },
+      { "id": "7n2wHs1TKAczGzO7Dd2rGr", "name": "Shawn Mendes" }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Stitches",
+    "album": "Handwritten",
+    "genre": "Pop",
+    "release_date": "2015-05-05",
+    "artists": [{ "id": "7n2wHs1TKAczGzO7Dd2rGr", "name": "Shawn Mendes" }]
+  },
+  {
+    "id": 29,
+    "title": "Treat You Better",
+    "album": "Illuminate",
+    "genre": "Pop",
+    "release_date": "2016-06-03",
+    "artists": [{ "id": "7n2wHs1TKAczGzO7Dd2rGr", "name": "Shawn Mendes" }]
+  },
+  {
+    "id": 30,
+    "title": "In My Blood",
+    "album": "Shawn Mendes",
+    "genre": "Pop",
+    "release_date": "2018-03-22",
+    "artists": [{ "id": "7n2wHs1TKAczGzO7Dd2rGr", "name": "Shawn Mendes" }]
+  },
+  {
+    "id": 31,
+    "title": "Sunflower",
+    "album": "Spider-Man: Into the Spider-Verse",
+    "genre": "Hip-hop",
+    "release_date": "2018-10-18",
+    "artists": [
+      { "id": "246dkjvS1zLTtiykXe5h60", "name": "Post Malone" },
+      { "id": "1URnnhqYAYcrqrcwql10ft", "name": "Swae Lee" }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Circles",
+    "album": "Hollywood's Bleeding",
+    "genre": "Pop",
+    "release_date": "2019-08-30",
+    "artists": [{ "id": "246dkjvS1zLTtiykXe5h60", "name": "Post Malone" }]
+  },
+  {
+    "id": 33,
+    "title": "Rockstar",
+    "album": "Beerbongs & Bentleys",
+    "genre": "Hip-hop",
+    "release_date": "2017-09-15",
+    "artists": [
+      { "id": "246dkjvS1zLTtiykXe5h60", "name": "Post Malone" },
+      { "id": "1anyVhU62p31KFi8MEzkbf", "name": "21 Savage" }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Old Town Road",
+    "album": "7 EP",
+    "genre": "Country rap",
+    "release_date": "2019-03-14",
+    "artists": [
+      { "id": "7jVv8c5Fj3E9VhNjxT4snq", "name": "Lil Nas X" },
+      { "id": "5cj0lLjcoR7YOSnhnX0Po5", "name": "Billy Ray Cyrus" }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Montero (Call Me By Your Name)",
+    "album": "Montero",
+    "genre": "Pop",
+    "release_date": "2021-03-26",
+    "artists": [{ "id": "7jVv8c5Fj3E9VhNjxT4snq", "name": "Lil Nas X" }]
+  },
+  {
+    "id": 36,
+    "title": "Industry Baby",
+    "album": "Montero",
+    "genre": "Hip-hop",
+    "release_date": "2021-07-23",
+    "artists": [
+      { "id": "7jVv8c5Fj3E9VhNjxT4snq", "name": "Lil Nas X" },
+      { "id": "6l3HvQ5sa6mXTsMTB19rO5", "name": "Jack Harlow" }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Savage Love",
+    "album": "Savage Love",
+    "genre": "Pop",
+    "release_date": "2020-06-11",
+    "artists": [
+      { "id": "7vk5e3vY1uw9plTHJAMwjN", "name": "Jawsh 685" },
+      { "id": "6eUKZXaKkcviH0Ku9w2n3V", "name": "Jason Derulo" }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Mood",
+    "album": "Mood",
+    "genre": "Pop",
+    "release_date": "2020-07-24",
+    "artists": [
+      { "id": "4O15NlyKLIASxsJ0PrXPfz", "name": "24kGoldn" },
+      { "id": "6U3ybJ9UHNKEdsH7ktGBZ7", "name": "Iann Dior" }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Goosebumps",
+    "album": "Birds in the Trap Sing McKnight",
+    "genre": "Hip-hop",
+    "release_date": "2016-09-16",
+    "artists": [
+      { "id": "0Y5tJX1MQlPlqiwlOH1tJY", "name": "Travis Scott" },
+      { "id": "2YZyLoL8N0Wb9xBt1NhZWg", "name": "Kendrick Lamar" }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Lucid Dreams",
+    "album": "Goodbye & Good Riddance",
+    "genre": "Hip-hop",
+    "release_date": "2018-05-11",
+    "artists": [{ "id": "4MCBfE4596Uoi2O4DtmEMz", "name": "Juice WRLD" }]
+  },
+  {
+    "id": 41,
+    "title": "All of Me",
+    "album": "Love in the Future",
+    "genre": "R&B",
+    "release_date": "2013-08-12",
+    "artists": [{ "id": "5y2Xq6xcjJb2jVM54GHK3t", "name": "John Legend" }]
+  },
+  {
+    "id": 42,
+    "title": "Happy",
+    "album": "G I R L",
+    "genre": "Pop",
+    "release_date": "2013-11-21",
+    "artists": [{ "id": "2RdwBSPQiwcmiDo9kixcl8", "name": "Pharrell Williams" }]
+  },
+  {
+    "id": 43,
+    "title": "Counting Stars",
+    "album": "Native",
+    "genre": "Pop rock",
+    "release_date": "2013-06-14",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 44,
+    "title": "Radioactive",
+    "album": "Night Visions",
+    "genre": "Alternative rock",
+    "release_date": "2012-10-29",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 45,
+    "title": "Demons",
+    "album": "Night Visions",
+    "genre": "Alternative rock",
+    "release_date": "2013-01-28",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 46,
+    "title": "Believer",
+    "album": "Evolve",
+    "genre": "Alternative rock",
+    "release_date": "2017-02-01",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 47,
+    "title": "Thunder",
+    "album": "Evolve",
+    "genre": "Alternative rock",
+    "release_date": "2017-04-27",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 48,
+    "title": "Closer",
+    "album": "Collage",
+    "genre": "Electropop",
+    "release_date": "2016-07-29",
+    "artists": [
+      { "id": "69GGBxA162lTqCwzJG5jLp", "name": "The Chainsmokers" },
+      { "id": "6qqNVTkY8uBg9cP3Jd7DAH", "name": "Halsey" }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Something Just Like This",
+    "album": "Memories...Do Not Open",
+    "genre": "Electropop",
+    "release_date": "2017-02-22",
+    "artists": [
+      { "id": "69GGBxA162lTqCwzJG5jLp", "name": "The Chainsmokers" },
+      { "id": "3WrFJ7ztbogyGnTHbHJFl2", "name": "Coldplay" }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Paris",
+    "album": "Memories...Do Not Open",
+    "genre": "Electropop",
+    "release_date": "2017-01-13",
+    "artists": [{ "id": "69GGBxA162lTqCwzJG5jLp", "name": "The Chainsmokers" }]
+  },
+  {
+    "id": 51,
+    "title": "Wake Me Up",
+    "album": "True",
+    "genre": "Electronic",
+    "release_date": "2013-06-17",
+    "artists": [{ "id": "1vCWHaC5f2uS3yhpwWbIA6", "name": "Avicii" }]
+  },
+  {
+    "id": 52,
+    "title": "Levels",
+    "album": "Levels",
+    "genre": "Electronic",
+    "release_date": "2011-10-28",
+    "artists": [{ "id": "1vCWHaC5f2uS3yhpwWbIA6", "name": "Avicii" }]
+  },
+  {
+    "id": 53,
+    "title": "Titanium",
+    "album": "Nothing but the Beat",
+    "genre": "Electronic",
+    "release_date": "2011-08-08",
+    "artists": [
+      { "id": "1Cs0zKBU1kc0i8ypK3B9ai", "name": "David Guetta" },
+      { "id": "2CIMQHirSU0MQqyYHq0eOx", "name": "Sia" }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Chandelier",
+    "album": "1000 Forms of Fear",
+    "genre": "Pop",
+    "release_date": "2014-03-17",
+    "artists": [{ "id": "5WUlDfRSoLAfcVSX1WnrxN", "name": "Sia" }]
+  },
+  {
+    "id": 55,
+    "title": "Elastic Heart",
+    "album": "1000 Forms of Fear",
+    "genre": "Pop",
+    "release_date": "2013-10-01",
+    "artists": [{ "id": "5WUlDfRSoLAfcVSX1WnrxN", "name": "Sia" }]
+  },
+  {
+    "id": 56,
+    "title": "Cheap Thrills",
+    "album": "This Is Acting",
+    "genre": "Pop",
+    "release_date": "2016-02-11",
+    "artists": [{ "id": "5WUlDfRSoLAfcVSX1WnrxN", "name": "Sia" }]
+  },
+  {
+    "id": 57,
+    "title": "Faded",
+    "album": "Different World",
+    "genre": "Electronic",
+    "release_date": "2015-12-03",
+    "artists": [{ "id": "7vk5e3vY1uw9plTHJAMwjN", "name": "Alan Walker" }]
+  },
+  {
+    "id": 58,
+    "title": "Alone",
+    "album": "Different World",
+    "genre": "Electronic",
+    "release_date": "2016-12-02",
+    "artists": [{ "id": "7vk5e3vY1uw9plTHJAMwjN", "name": "Alan Walker" }]
+  },
+  {
+    "id": 59,
+    "title": "Sing Me to Sleep",
+    "album": "Different World",
+    "genre": "Electronic",
+    "release_date": "2016-06-03",
+    "artists": [{ "id": "7vk5e3vY1uw9plTHJAMwjN", "name": "Alan Walker" }]
+  },
+  {
+    "id": 60,
+    "title": "The Nights",
+    "album": "The Days / Nights",
+    "genre": "Electronic",
+    "release_date": "2014-12-01",
+    "artists": [{ "id": "1vCWHaC5f2uS3yhpwWbIA6", "name": "Avicii" }]
+  },
+  {
+    "id": 61,
+    "title": "Hey Brother",
+    "album": "True",
+    "genre": "Electronic",
+    "release_date": "2013-10-28",
+    "artists": [{ "id": "1vCWHaC5f2uS3yhpwWbIA6", "name": "Avicii" }]
+  },
+  {
+    "id": 62,
+    "title": "Without You",
+    "album": "AVĪCI (01)",
+    "genre": "Electronic",
+    "release_date": "2017-08-11",
+    "artists": [{ "id": "1vCWHaC5f2uS3yhpwWbIA6", "name": "Avicii" }]
+  },
+  {
+    "id": 63,
+    "title": "Stressed Out",
+    "album": "Blurryface",
+    "genre": "Alternative",
+    "release_date": "2015-04-28",
+    "artists": [{ "id": "3YQKmKGau1PzlVlkL1iodx", "name": "Twenty One Pilots" }]
+  },
+  {
+    "id": 64,
+    "title": "Ride",
+    "album": "Blurryface",
+    "genre": "Alternative",
+    "release_date": "2015-05-11",
+    "artists": [{ "id": "3YQKmKGau1PzlVlkL1iodx", "name": "Twenty One Pilots" }]
+  },
+  {
+    "id": 65,
+    "title": "Heathens",
+    "album": "Suicide Squad: The Album",
+    "genre": "Alternative",
+    "release_date": "2016-06-16",
+    "artists": [{ "id": "3YQKmKGau1PzlVlkL1iodx", "name": "Twenty One Pilots" }]
+  },
+  {
+    "id": 66,
+    "title": "Believer",
+    "album": "Evolve",
+    "genre": "Alternative rock",
+    "release_date": "2017-02-01",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 67,
+    "title": "Thunder",
+    "album": "Evolve",
+    "genre": "Alternative rock",
+    "release_date": "2017-04-27",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 68,
+    "title": "Whatever It Takes",
+    "album": "Evolve",
+    "genre": "Alternative rock",
+    "release_date": "2017-05-08",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 69,
+    "title": "Demons",
+    "album": "Night Visions",
+    "genre": "Alternative rock",
+    "release_date": "2013-01-28",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 70,
+    "title": "Radioactive",
+    "album": "Night Visions",
+    "genre": "Alternative rock",
+    "release_date": "2012-10-29",
+    "artists": [{ "id": "53XhwfbYqKCa1cC15pYq2q", "name": "Imagine Dragons" }]
+  },
+  {
+    "id": 71,
+    "title": "Counting Stars",
+    "album": "Native",
+    "genre": "Pop rock",
+    "release_date": "2013-06-14",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 72,
+    "title": "Apologize",
+    "album": "Dreaming Out Loud",
+    "genre": "Pop rock",
+    "release_date": "2007-04-30",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 73,
+    "title": "Secrets",
+    "album": "Waking Up",
+    "genre": "Pop rock",
+    "release_date": "2009-11-03",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 74,
+    "title": "Good Life",
+    "album": "Waking Up",
+    "genre": "Pop rock",
+    "release_date": "2009-11-17",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 75,
+    "title": "Love Runs Out",
+    "album": "Native",
+    "genre": "Pop rock",
+    "release_date": "2014-04-14",
+    "artists": [{ "id": "5Pwc4xIPtQLFEnJriah9YJ", "name": "OneRepublic" }]
+  },
+  {
+    "id": 76,
+    "title": "Halo",
+    "album": "I Am... Sasha Fierce",
+    "genre": "Pop",
+    "release_date": "2008-01-20",
+    "artists": [{ "id": "6vWDO969PvNqNYHIOW5v0m", "name": "Beyoncé" }]
+  },
+  {
+    "id": 77,
+    "title": "Single Ladies (Put a Ring on It)",
+    "album": "I Am... Sasha Fierce",
+    "genre": "Pop",
+    "release_date": "2008-10-13",
+    "artists": [{ "id": "6vWDO969PvNqNYHIOW5v0m", "name": "Beyoncé" }]
+  },
+  {
+    "id": 78,
+    "title": "Crazy in Love",
+    "album": "Dangerously in Love",
+    "genre": "R&B",
+    "release_date": "2003-05-14",
+    "artists": [
+      { "id": "6vWDO969PvNqNYHIOW5v0m", "name": "Beyoncé" },
+      { "id": "3nFkdlSjzX9mRTtwJOzDYB", "name": "Jay-Z" }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Irreplaceable",
+    "album": "B'Day",
+    "genre": "R&B",
+    "release_date": "2006-10-23",
+    "artists": [{ "id": "6vWDO969PvNqNYHIOW5v0m", "name": "Beyoncé" }]
+  },
+  {
+    "id": 80,
+    "title": "If I Were a Boy",
+    "album": "I Am... Sasha Fierce",
+    "genre": "Pop",
+    "release_date": "2008-10-08",
+    "artists": [{ "id": "6vWDO969PvNqNYHIOW5v0m", "name": "Beyoncé" }]
+  },
+  {
+    "id": 81,
+    "title": "Rolling in the Deep",
+    "album": "21",
+    "genre": "Soul",
+    "release_date": "2010-11-29",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 82,
+    "title": "Someone Like You",
+    "album": "21",
+    "genre": "Soul",
+    "release_date": "2011-01-24",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 83,
+    "title": "Hello",
+    "album": "25",
+    "genre": "Soul",
+    "release_date": "2015-10-23",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 84,
+    "title": "Skyfall",
+    "album": "Skyfall",
+    "genre": "Soundtrack",
+    "release_date": "2012-10-05",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 85,
+    "title": "Set Fire to the Rain",
+    "album": "21",
+    "genre": "Soul",
+    "release_date": "2011-07-04",
+    "artists": [{ "id": "4dpARuHxo51G3z768sgnrY", "name": "Adele" }]
+  },
+  {
+    "id": 86,
+    "title": "Let It Go",
+    "album": "Frozen (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "release_date": "2013-11-25",
+    "artists": [{ "id": "3r17AfJCCUqC9Lf0OAc73G", "name": "Idina Menzel" }]
+  },
+  {
+    "id": 87,
+    "title": "Do You Want to Build a Snowman?",
+    "album": "Frozen (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "release_date": "2013-11-25",
+    "artists": [{ "id": "3r17AfJCCUqC9Lf0OAc73G", "name": "Kristen Bell" }]
+  },
+  {
+    "id": 88,
+    "title": "Into the Unknown",
+    "album": "Frozen II (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "release_date": "2019-11-15",
+    "artists": [{ "id": "3r17AfJCCUqC9Lf0OAc73G", "name": "Idina Menzel" }]
+  },
+  {
+    "id": 89,
+    "title": "Show Yourself",
+    "album": "Frozen II (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "release_date": "2019-11-15",
+    "artists": [{ "id": "3r17AfJCCUqC9Lf0OAc73G", "name": "Idina Menzel" }]
+  },
+  {
+    "id": 90,
+    "title": "For the First Time in Forever",
+    "album": "Frozen (Original Motion Picture Soundtrack)",
+    "genre": "Soundtrack",
+    "release_date": "2013-11-25",
+    "artists": [{ "id": "3r17AfJCCUqC9Lf0OAc73G", "name": "Kristen Bell" }]
+  },
+  {
+    "id": 91,
+    "title": "Shallow",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [
+      { "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" },
+      { "id": "2wY79sveU1sp5g7SokKOiI", "name": "Bradley Cooper" }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Always Remember Us This Way",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [{ "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" }]
+  },
+  {
+    "id": 93,
+    "title": "I'll Never Love Again",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [{ "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" }]
+  },
+  {
+    "id": 94,
+    "title": "Speechless",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [{ "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" }]
+  },
+  {
+    "id": 95,
+    "title": "Is That Alright?",
+    "album": "A Star Is Born Soundtrack",
+    "genre": "Pop",
+    "release_date": "2018-10-05",
+    "artists": [
+      { "id": "1HY2Jd0NmPuamShAr6KMms", "name": "Lady Gaga" },
+      { "id": "2wY79sveU1sp5g7SokKOiI", "name": "Bradley Cooper" }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "The Climb",
+    "album": "Hannah Montana: The Movie",
+    "genre": "Pop",
+    "release_date": "2009-03-05",
+    "artists": [{ "id": "5YGY8feqx7naU7z4HrwZM6", "name": "Miley Cyrus" }]
+  },
+  {
+    "id": 97,
+    "title": "Party in the U.S.A.",
+    "album": "The Time of Our Lives",
+    "genre": "Pop",
+    "release_date": "2009-08-11",
+    "artists": [{ "id": "5YGY8feqx7naU7z4HrwZM6", "name": "Miley Cyrus" }]
+  },
+  {
+    "id": 98,
+    "title": "Wrecking Ball",
+    "album": "Bangerz",
+    "genre": "Pop",
+    "release_date": "2013-08-25",
+    "artists": [{ "id": "5YGY8feqx7naU7z4HrwZM6", "name": "Miley Cyrus" }]
+  },
+  {
+    "id": 99,
+    "title": "We Can't Stop",
+    "album": "Bangerz",
+    "genre": "Pop",
+    "release_date": "2013-06-03",
+    "artists": [{ "id": "5YGY8feqx7naU7z4HrwZM6", "name": "Miley Cyrus" }]
+  },
+  {
+    "id": 100,
+    "title": "Malibu",
+    "album": "Younger Now",
+    "genre": "Pop",
+    "release_date": "2017-05-11",
+    "artists": [{ "id": "5YGY8feqx7naU7z4HrwZM6", "name": "Miley Cyrus" }]
+  },
+  {
+    "id": 101,
+    "title": "Adore You",
+    "album": "Fine Line",
+    "genre": "Pop",
+    "release_date": "2019-12-06",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
+  },
+  {
+    "id": 102,
+    "title": "Sign of the Times",
+    "album": "Harry Styles",
+    "genre": "Pop rock",
+    "release_date": "2017-04-07",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
+  },
+  {
+    "id": 103,
+    "title": "Golden",
+    "album": "Fine Line",
+    "genre": "Pop",
+    "release_date": "2019-12-13",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
+  },
+  {
+    "id": 104,
+    "title": "Watermelon Sugar",
+    "album": "Fine Line",
+    "genre": "Pop rock",
+    "release_date": "2019-12-13",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
+  },
+  {
+    "id": 105,
+    "title": "Falling",
+    "album": "Fine Line",
+    "genre": "Pop",
+    "release_date": "2019-12-13",
+    "artists": [{ "id": "6KImCVD70vtIoJWnq6nGn3", "name": "Harry Styles" }]
   }
 ]
