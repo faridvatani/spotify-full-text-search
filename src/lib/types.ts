@@ -17,3 +17,20 @@ export interface SpotifyData {
   release_date: string;
   artists: Artist[];
 }
+
+/**
+ * Represents a genre aggregation result.
+ */
+export type GenreAggregations = {
+  genre: string;
+  count: number;
+};
+
+/**
+ * Represents the result of a search query.
+ */
+export type SearchResult = {
+  items: SpotifyData[];
+  total: number;
+  genreAggregations: GenreAggregations[];
+};
