@@ -5,7 +5,6 @@ import { GenreAggregations, SearchResult, SpotifyData } from "./types";
 import { estypes } from "@elastic/elasticsearch";
 import { delay } from "./utils";
 
-
 /**
  * Waits for the Elasticsearch index to become ready.
  * @param maxRetries - Maximum number of retries.
@@ -212,6 +211,9 @@ export async function searchSpotifyData(
       size: pageSize,
       sort: query ? [{ _score: { order: "desc" } }] : undefined,
       track_total_hits: true,
+      collapse: {
+        field: "id",
+      },
       aggs: {
         genres: {
           terms: {

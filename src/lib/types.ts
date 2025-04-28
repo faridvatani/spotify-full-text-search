@@ -22,8 +22,8 @@ export interface SpotifyData {
  * Represents a genre aggregation result.
  */
 export type GenreAggregations = {
-  genre: string;
-  count: number;
+  key: string;
+  doc_count: number;
 };
 
 /**
