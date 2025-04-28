@@ -44,14 +44,6 @@ const mappings: estypes.MappingTypeMapping = {
         },
       },
     },
-    explanation: {
-      type: "text",
-      analyzer: "standard",
-    },
-    date: {
-      type: "date",
-      format: "yyyy-MM-dd",
-    },
     album: {
       type: "text",
       analyzer: "standard",
@@ -70,12 +62,13 @@ const mappings: estypes.MappingTypeMapping = {
         },
       },
     },
+    release_date: {
+      type: "date",
+      format: "yyyy-MM-dd",
+    },
     artists: {
       type: "nested",
       properties: {
-        id: {
-          type: "keyword",
-        },
         name: {
           type: "text",
           analyzer: "standard",
