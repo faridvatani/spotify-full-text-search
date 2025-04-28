@@ -3,12 +3,8 @@
 import client, { SPOTIFY_INDEX, SPOTIFY_MAPPING } from "@/lib/elasticsearch";
 import { GenreAggregations, SearchResult, SpotifyData } from "./types";
 import { estypes } from "@elastic/elasticsearch";
+import { delay } from "./utils";
 
-/**
- * Utility function to introduce a delay.
- */
-const delay = (ms: number): Promise<void> =>
-  new Promise((resolve) => setTimeout(resolve, ms));
 
 /**
  * Waits for the Elasticsearch index to become ready.
