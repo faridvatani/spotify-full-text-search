@@ -54,13 +54,7 @@ const mappings: estypes.MappingTypeMapping = {
       },
     },
     genre: {
-      type: "text",
-      analyzer: "standard",
-      fields: {
-        keyword: {
-          type: "keyword",
-        },
-      },
+      type: "keyword",
     },
     release_date: {
       type: "date",

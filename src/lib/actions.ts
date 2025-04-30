@@ -203,7 +203,6 @@ export async function searchSpotifyData(
 ): Promise<SearchResult> {
   try {
     const searchQuery = buildSearchQuery(query, genreFilter);
-
     const response = await client.search({
       index: SPOTIFY_INDEX,
       query: searchQuery,
@@ -211,13 +210,10 @@ export async function searchSpotifyData(
       size: pageSize,
       sort: query ? [{ _score: { order: "desc" } }] : undefined,
       track_total_hits: true,
-      collapse: {
-        field: "id",
-      },
       aggs: {
         genres: {
           terms: {
-            field: "genre.keyword",
+            field: "genre",
             size: 10,
             order: {
               _count: "desc",

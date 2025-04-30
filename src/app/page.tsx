@@ -41,7 +41,6 @@ export default function Home() {
         pageSize,
         selectedGenre,
       );
-      console.log(result);
       setRows(result.items);
       setTotalRows(result.total);
       setGenreAggregations(result.genreAggregations);
@@ -61,8 +60,8 @@ export default function Home() {
     setPageSize(newPageSize);
   };
 
-  const handleGenreChange = (year: string) => {
-    setSelectedGenre(year);
+  const handleGenreChange = (genre: string) => {
+    setSelectedGenre(genre);
     setPage(0);
   };
 
