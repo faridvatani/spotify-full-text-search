@@ -117,7 +117,8 @@ function buildShouldClause(query: string): estypes.QueryDslQueryContainer[] {
       match: {
         title: {
           query,
-          boost: 4,
+          boost: 5,
+          fuzziness: "AUTO",
         },
       },
     },
@@ -125,17 +126,44 @@ function buildShouldClause(query: string): estypes.QueryDslQueryContainer[] {
       match_phrase: {
         title: {
           query,
-          boost: 10,
+          boost: 15,
         },
       },
     },
     {
       multi_match: {
         query,
-        fields: ["title^2", "album"],
+        fields: ["title^4", "album^2", "artists.name^3"],
         type: "best_fields",
         fuzziness: "AUTO",
         minimum_should_match: "70%",
+      },
+    },
+    {
+      nested: {
+        path: "artists",
+        query: {
+          match: {
+            "artists.name": {
+              query,
+              boost: 6,
+              fuzziness: "AUTO",
+            },
+          },
+        },
+      },
+    },
+    {
+      nested: {
+        path: "artists",
+        query: {
+          match_phrase: {
+            "artists.name": {
+              query,
+              boost: 12,
+            },
+          },
+        },
       },
     },
   ];
