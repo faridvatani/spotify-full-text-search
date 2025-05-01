@@ -75,14 +75,6 @@ const mappings: estypes.MappingTypeMapping = {
       },
     },
   },
-  runtime: {
-    "genre.name": {
-      type: "keyword",
-      script: {
-        source: "doc['genre'].value",
-      },
-    },
-  },
 };
 
 export const SPOTIFY_MAPPING = {
