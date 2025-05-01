@@ -242,7 +242,7 @@ export async function searchSpotifyData(
         genres: {
           terms: {
             field: "genre",
-            size: 10,
+            size: 16,
             order: {
               _count: "desc",
             },
