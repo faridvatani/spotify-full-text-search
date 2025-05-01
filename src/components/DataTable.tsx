@@ -26,7 +26,7 @@ export function DataTable({
     {
       field: "id",
       headerName: "ID",
-      width: 100,
+      width: 50,
       renderCell: (params) => (
         <Box
           sx={{
@@ -48,7 +48,7 @@ export function DataTable({
     {
       field: "title",
       headerName: "Song",
-      width: 300,
+      width: 280,
       renderCell: (params) => (
         <Box
           sx={{
@@ -132,7 +132,7 @@ export function DataTable({
     {
       field: "genre",
       headerName: "Genre",
-      width: 200,
+      width: 150,
       renderCell: (params) => (
         <Box
           sx={{
@@ -151,7 +151,7 @@ export function DataTable({
     {
       field: "release_date",
       headerName: "Release Date",
-      width: 200,
+      width: 150,
       renderCell: (params) => (
         <Box
           sx={{
