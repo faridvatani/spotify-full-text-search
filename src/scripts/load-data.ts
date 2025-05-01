@@ -1,13 +1,9 @@
 import { indexSpotifyData, initializeIndex } from "@/lib/actions";
 import { SpotifyData } from "@/lib/types";
+import { delay } from "@/lib/utils";
 import { readFile } from "fs/promises";
 import { join } from "path";
 
-/**
- * Utility function to introduce a delay.
- */
-const delay = (ms: number): Promise<void> =>
-  new Promise((resolve) => setTimeout(resolve, ms));
 
 /**
  * Reads and parses JSON data from a file.
@@ -78,7 +74,7 @@ async function processChunks(
     } catch (error) {
       console.error(`Error processing chunk ${i + 1}:`, error);
       console.log(`Retrying after delay...`);
-      await delay(delayBetweenChunks * 2); // Retry delay
+      await delay(delayBetweenChunks * 2);
     }
   }
 

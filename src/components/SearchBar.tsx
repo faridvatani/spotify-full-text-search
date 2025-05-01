@@ -38,7 +38,7 @@ export function SearchBar({ value, onChange }: SearchBarProps) {
           },
         },
         "& .MuiOutlinedInput-notchedOutline": {
-          borderColor: theme.palette.divider, // Default border color
+          borderColor: theme.palette.divider,
         },
       }}
     />
