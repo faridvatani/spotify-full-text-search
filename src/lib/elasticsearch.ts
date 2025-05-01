@@ -76,10 +76,10 @@ const mappings: estypes.MappingTypeMapping = {
     },
   },
   runtime: {
-    "date.year": {
+    "genre.name": {
       type: "keyword",
       script: {
-        source: "emit(doc['date'].value.year.toString())",
+        source: "doc['genre'].value",
       },
     },
   },
