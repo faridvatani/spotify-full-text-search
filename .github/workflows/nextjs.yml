@@ -73,13 +73,7 @@ jobs:
             ${{ runner.os }}-pnpm-store-
 
       - name: Install dependencies
-        run: |
-          if [ -f "pnpm-lock.yaml" ]; then
-            pnpm install --frozen-lockfile
-          else
-            pnpm install
-            pnpm install --frozen-lockfile
-          fi
+        run: pnpm install
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
